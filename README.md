@@ -87,6 +87,8 @@ Finally, we run test inferences to see the model in action.
 
 ## Sample Results
 
+![](./results/result1.jpg)
+![](./results/result2.jpg)
 &#x20;&#x20;
 
 ## Conclusion
